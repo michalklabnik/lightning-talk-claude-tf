@@ -1,3 +1,8 @@
+### lightning-talk-claude-tf
+.ssh/
+.envrc
+
+
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
