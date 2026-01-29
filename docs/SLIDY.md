@@ -73,11 +73,16 @@ docker run -it \
 
 ### Ralph
 
+https://github.com/snarktank/ralph
+
 - Pro vyšperkování výstupu
 - Iterativní vylepšování s lidským feedbackem
 - Když chceš "perfektní" výsledek
+- Product Requirements Document
 
 ### Automaker
+
+https://automaker.app
 
 - Komplexní, vícekrokové úlohy
 - Automatická dekompozice problému
@@ -85,10 +90,14 @@ docker run -it \
 
 ### Moltbot
 
+https://www.molt.bot
+
+- Dříve Clawdbot
 - Důraz na bezpečnost
 - Izolované prostředí pro běh kódu
 - Audit trail všech akcí
 - https://www.shodan.io/search?query=clawdbot-gw
+- https://www.shodan.io/search?query=moltbot-gw
 
 ---
 
