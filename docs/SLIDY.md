@@ -99,6 +99,7 @@ https://openclaw.ai/blog/introducing-openclaw
 - https://www.shodan.io/search?query=clawdbot-gw
 - https://www.shodan.io/search?query=moltbot-gw
 - https://www.shodan.io/search?query=openclaw-gw
+- https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/
 
 ---
 
