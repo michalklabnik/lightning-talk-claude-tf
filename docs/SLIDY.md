@@ -88,16 +88,17 @@ https://automaker.app
 - Automatická dekompozice problému
 - Když je zadání složité a nejasné
 
-### Moltbot
+### OpenClaw
 
-https://www.molt.bot
+https://openclaw.ai/blog/introducing-openclaw
 
-- Dříve Clawdbot
+- ~~Clawdbot~~ -> ~~Moltbot~~ -> OpenClaw
 - Důraz na bezpečnost
 - Izolované prostředí pro běh kódu
 - Audit trail všech akcí
 - https://www.shodan.io/search?query=clawdbot-gw
 - https://www.shodan.io/search?query=moltbot-gw
+- https://www.shodan.io/search?query=openclaw-gw
 
 ---
 
